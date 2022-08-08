@@ -1,0 +1,22 @@
+#macro P1 0xFF00
+
+#macro DIV 0xFF04
+#macro TIMA 0xFF05
+#macro TMA 0xFF06
+#macro TAC 0xFF07
+
+#macro LCDC 0xFF40
+#macro STAT 0xFF41
+#macro SCY 0xFF42
+#macro SCX 0xFF43
+#macro LY 0xFF44
+#macro LYC 0xFF45
+#macro DMA 0xFF46
+#macro BGP 0xFF47
+#macro OBP0 0xFF48
+#macro OBP1 0xFF49
+#macro WY 0xFF4A
+#macro WX 0xFF4B
+
+#macro IF 0xFF0F
+#macro IE 0xFFFF
